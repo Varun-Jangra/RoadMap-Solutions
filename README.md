@@ -9,3 +9,6 @@
 
 **Project-4-Link**
 🔗 **Live Project URL:** [https://varun-jangra.github.io/RoadMap-Solutions/](https://roadmap.sh/projects/js-string-formatter)
+
+**Project-5-Link**
+🔗 **Live Project URL:** [https://varun-jangra.github.io/RoadMap-Solutions/](https://roadmap.sh/projects/js-price-calculator)
