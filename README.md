@@ -2,7 +2,7 @@
 
 An optimized, clean, and interactive JavaScript implementation that takes real-time user inputs to generate custom, case-insensitive time-of-day greetings.
 
-🔗 **Live Project URL:** https://varun-jangra.github.io/RoadMap-Solutions/
+🔗 **Live Project URL:** [https://varun-jangra.github.io/RoadMap-Solutions/](https://roadmap.sh/projects/js-greeting-builder)
 
 ---
 
