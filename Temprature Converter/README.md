@@ -2,6 +2,8 @@
 
 A simple and interactive JavaScript program that prompts the user for temperatures in both Celsius and Fahrenheit, performs the mathematical conversions, and outputs the formatted results to the console.
 
+🔗 **Live Project URL:** [ https://varun-jangra.github.io/RoadMap-Solutions/](https://roadmap.sh/projects/js-temperature-converter)
+
 ## 🚀 Features
 
 * **Dual Conversion:** Converts Celsius to Fahrenheit and Fahrenheit to Celsius simultaneously.
