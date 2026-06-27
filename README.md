@@ -6,3 +6,6 @@
 
 **Project-3-Link**
 🔗 **Live Project URL:** [https://varun-jangra.github.io/RoadMap-Solutions/](https://roadmap.sh/projects/js-number-checker)
+
+**Project-3-Link**
+🔗 **Live Project URL:** [https://varun-jangra.github.io/RoadMap-Solutions/](https://roadmap.sh/projects/js-string-formatter)
